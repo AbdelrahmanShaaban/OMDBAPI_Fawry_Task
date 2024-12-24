@@ -11,6 +11,6 @@
    
 2. Access the API on `http://localhost:8080`.
 
-3.Username: admin1234, Password: 1234
+3. Username: admin1234, Password: 1234 .
 
-4.Username: user1234, Password: 1234
+4. Username: user1234, Password: 1234 .
